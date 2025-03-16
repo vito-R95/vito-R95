@@ -1,4 +1,4 @@
-👋 Ciao, sono [Il Tuo Nome]!
+👋 Ciao, sono Ruggiero Vito!
 
 Benvenuto nel mio profilo GitHub! 🚀 Sono un appassionato di tecnologia, dati e intelligenza artificiale, sempre alla ricerca di nuove sfide e opportunità di crescita.
 
