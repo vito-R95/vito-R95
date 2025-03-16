@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Ciao, sono [Il Tuo Nome]!
 
-<!--
-**vito-R95/vito-R95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto nel mio profilo GitHub! 🚀 Sono un appassionato di tecnologia, dati e intelligenza artificiale, sempre alla ricerca di nuove sfide e opportunità di crescita.
 
-Here are some ideas to get you started:
+🎓 Formazione
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Laurea triennale in Economia e Informatica 📊💻
+
+Attualmente studente magistrale in Intelligenza Artificiale presso l'Università di Torino 🤖
+
+💼 Esperienza
+
+Attualmente lavoro presso Betacom, dove mi occupo di sviluppo software e intelligenza artificiale. Ho avuto l'opportunità di lavorare su progetti innovativi legati a:
+
+Computer Vision 🖼️📷
+
+Chatbot e NLP 💬🤖
+
+🔧 Competenze
+
+Python 🐍 | TensorFlow | PyTorch | OpenCV
+
+Machine Learning | Deep Learning | NLP
+
+Data Science | Analisi Dati | SQL
+
+Sviluppo Backend | API
+
+📫 Contatti
+
+📧 Email: [La tua email]💼 LinkedIn: [Il tuo profilo LinkedIn]🌐 Portfolio: [Il tuo sito web, se ne hai uno]
+
+Grazie per aver visitato il mio profilo! ⭐ Se trovi interessanti i miei progetti, non dimenticare di lasciare un follow e una star ai repository che ti piacciono! 🚀
